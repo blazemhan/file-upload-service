@@ -28,7 +28,7 @@ POST	/files/upload	-Upload a file\
 GET	/files/{id}	  -Retrieve file metadata by ID\
 DELETE	/files/{id}	-Delete a file by ID
 
-## 📏 Upload Limits & Supported Formats
+##  Upload Limits & Supported Formats
 
 | Rule | Value |
 |-|--|
@@ -36,7 +36,7 @@ DELETE	/files/{id}	-Delete a file by ID
 | Allowed types | `jpg`, `png`, `pdf` |
 |   
 
-🗃 H2 Console
+ H2 Console
 Access the H2 database console at:
 
 http://localhost:8080/h2-console
