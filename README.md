@@ -30,11 +30,11 @@ DELETE	/files/{id}	-Delete a file by ID
 
 ## 📏 Upload Limits & Supported Formats
 
-| Rule               | Value                                         |
-|--------------------|-----------------------------------------------|
-| Max file size      | **5 MB**                                      |
-| Allowed types      | `jpg`, `jpeg`, `png`, `pdf`                   |
-| Allowed MIME types | `image/jpeg`, `image/png`, `application/pdf`  |
+| Rule | Value |
+|-|--|
+| Max file size | **5 MB** |
+| Allowed types | `jpg`, `png`, `pdf` |
+|   
 
 🗃 H2 Console
 Access the H2 database console at:
